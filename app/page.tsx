@@ -532,7 +532,7 @@ ${foods}
 
       <div>
         <label className="font-semibold block mb-2">
-          3. Si tuvieras que comer 3 comidas toda tu vida...
+          3. Si tuvieras que comer 3 comidas toda tu vida, que comerías...
         </label>
 
         <textarea
